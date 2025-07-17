@@ -1,0 +1,5 @@
+print("enter your favourite pet")
+favourite_pet=input("Enter your pet")
+print("favourite pet",favourite_pet.upper())
+print("favourite pet",favourite_pet.lower())
+print("The reverse of",favourite_pet,"is",favourite_pet[::-1])
